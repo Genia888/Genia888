@@ -1,7 +1,7 @@
 ## Hi there 👋 I'am Evgeni 
 
 ## 📝 About me
-I am a web developer student at Holberton School
+I'm a web developer student at Holberton School
 
 
 ## 🔨 Tech stack
