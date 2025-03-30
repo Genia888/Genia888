@@ -23,6 +23,9 @@ I am a web developer student at Holberton School
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genia888&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="GitHub statistics"></a>
 </p>
 
+## 📫 Contact 
+<a href="mailto:khalepo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
+
 <p align="right">
     <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/genia888?style=flat&label=Followers" alt="GitHub followers badge"></a>
     <a href="https://shields.io/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/genia888?style=flat&label=Stars" alt="GitHub stars badge"></a>
