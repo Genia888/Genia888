@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Evgeni 
+## Hi, 👋 I'am Evgeni 
 
 ## 📝 About me
 I'm a web developer student at Holberton School
